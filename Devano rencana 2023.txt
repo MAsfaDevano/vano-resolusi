@@ -5,3 +5,4 @@ RENCANA DEVANO 2023
 - punya uang sendiri
 - Membuat project web app
 - Belajar bahasa pemrograman Python
+  * belajar fundamental

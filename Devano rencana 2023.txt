@@ -4,3 +4,4 @@ RENCANA DEVANO 2023
 - beli barang di wishlist shopee
 - punya uang sendiri
 - Membuat project web app
+- Belajar bahasa pemrograman Python

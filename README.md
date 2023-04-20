@@ -1,2 +1,2 @@
 # vano-resolusi
-Respository untu menyimpan resolusi devano kedepan nya
+Respository untuk menyimpan resolusi Devano kedepan nya
